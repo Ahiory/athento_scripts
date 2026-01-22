@@ -1,8 +1,6 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+**Esto repositorio fue clonado de Bitbucket**
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
-
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+*Le recomendamos que abra este archivo README en otra pestaña mientras realiza las tareas a continuación. Puede ver nuestro video [watch our video](https://youtu.be/0ocf7u76WSo) para una demostración completa de todos los pasos de este tutorial. Abra el video en una nueva pestaña para no salir de Bitbucket.*
 
 ---
 
