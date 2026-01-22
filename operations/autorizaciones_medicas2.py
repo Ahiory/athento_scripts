@@ -6,7 +6,7 @@ from datetime import datetime
 from operations.enums import ProcessOperationParameterType, ProcessOperationParameterChoiceType
 from django.utils.translation import gettext as _
 
-VERSION = "1.0"
+VERSION = "1.1"
 NAME = _("Envia autorizaciones medicas Github clone")
 DESCRIPTION = _("Esto es una prueba de clonacion dde operaciones del repositorio")
 ORDER = 100
